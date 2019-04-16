@@ -5,6 +5,7 @@ Git是一个 “分布式版本管理工具”，简单的理解版本管理工�
 
 下面的内容就是列举了常用的 Git 命令和一些小技巧，可以通过 "页面内查找" 的方式进行快速查询：`Ctrl/Command+f`。
 
+## 小小的修改
 ## 开卷必读
 *如果之前未使用过 Git，可以学习 [Git 小白教程](http://rogerdudler.github.io/git-guide/index.zh.html)入门*
 
